@@ -12,7 +12,7 @@ identification of new sales opportunities, increase loyalty and promote positive
 brand awareness. Every company has to make sure that they are answering the
 phones promptly.
 
-#WHAT IS A CALL QUEUE?
+# WHAT IS A CALL QUEUE?
 Call queuing is a concept used in inbound call centres. When calling a phone
 system that uses call queues, callers usually hear a welcome message and an
 IVR menu and are then sent into a call queue, where they hear waiting music
