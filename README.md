@@ -1,6 +1,6 @@
 # Automatic Call Distributor and Optimizer
 
-# ABSTRACT
+# Abstract
 Call queues are central to the effectiveness of call centres and customer service. Call centres use a variety of methods, tools, and practices to lower the average
 time that a caller spends in the call queue. The goal is to have the lowest
 average call queue time possible, which will result in more effective service and
@@ -12,7 +12,7 @@ identification of new sales opportunities, increase loyalty and promote positive
 brand awareness. Every company has to make sure that they are answering the
 phones promptly.
 
-# WHAT IS A CALL QUEUE?
+# What is a Call Queue?
 Call queuing is a concept used in inbound call centres. When calling a phone
 system that uses call queues, callers usually hear a welcome message and an
 IVR menu and are then sent into a call queue, where they hear waiting music
